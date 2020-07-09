@@ -35,7 +35,7 @@ This website is hosted in AWS:
 
 ##About_our_site
 
-              * [Coding Test]Link:www.codingtest.com.s3-website.ap-south-1.amazonaws.com
+              * [Coding Test](Link:www.codingtest.com.s3-website.ap-south-1.amazonaws.com)
               * It is a free and open-source online code editor that allows you to write and excute  code from different kind of languages(C,C++,JAVA,JAVASCRIPT,PYTHON).
               
               * Moreover,it is also useful for teaching and learning or just trying out a new language.
