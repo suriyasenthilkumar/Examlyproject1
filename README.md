@@ -40,3 +40,12 @@ This website is hosted in AWS:
               * It is a free and open-source online code editor that allows you to write and excute  code from different kind of languages(C,C++,JAVA,JAVASCRIPT,PYTHON).
               
               * Moreover,it is also useful for teaching and learning or just trying out a new language.
+#how to use this portal:
+
+                  step1:click the given link(www.codingtest.com.s3-website.ap-south-1.amazonaws.com)
+                  step2:you can select the language what you want.
+                  step3:After completing the code you can click the run button.
+                  step4:If the code doesn't have any errors it will properly run and show the output in the stdout.
+                  step5:After the above process if you want to change the language change it using the button and clear the code what already done by us.
+                  step6:After clear it,you can code for the selected language.               
+              
