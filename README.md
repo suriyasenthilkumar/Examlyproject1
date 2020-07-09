@@ -1,7 +1,7 @@
 WELCOME TO CODING TEST
 =======================
 
-##About_this_project
+##About his project
 
           * This Project is built for online compiler IDE.The files provided in this project have few high level language program compiler and we can add features to support more high level language code.
 
@@ -22,7 +22,7 @@ This website is hosted in AWS:
      
           * An application program interface (API) is a set of routines, protocols, and tools for building software applications. Basically, an API specifies how software components should interact. Additionally, APIs are used when programming graphical user interface (GUI) components.   
 
-##Our_Project_Contains
+##Our Project Contains
 
           * README.md  - this file
           * index.html - this file contains the website main page.
@@ -30,11 +30,11 @@ This website is hosted in AWS:
           * js - this directory contains javascript/jquery code used for the website.
           * images - this file contain background theme and logo used for the website.
 
-##API_Used_for_our_project     
+##API Used for our project     
 
           * Coding Test Online IDE compiler uses the APIs(Link:https://rapidapi.com/hermanzdosilovic/api/judge0),it is used for executing the source code by the users.     
 
-##About_our_site
+##About our site
 
               * [Coding Test](Link:www.codingtest.com.s3-website.ap-south-1.amazonaws.com)
               * It is a free and open-source online code editor that allows you to write and excute  code from different kind of languages(C,C++,JAVA,JAVASCRIPT,PYTHON).
