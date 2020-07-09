@@ -7,7 +7,7 @@ WELCOME TO CODING TEST
 
 This website is hosted in AWS:
         
- (--) General Information (--)
+  General Information 
  =============================
 
           * HTML is short for Hypertext Markup Language. HTML is used to create electronic documents (called pages) that are displayed on the World Wide Web. Each page contains a series of connections to other pages called hyperlinks.
