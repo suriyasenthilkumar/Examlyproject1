@@ -4,7 +4,7 @@ var wait = localStorageGetItem("wait") || false;
 var pbUrl = "https://pb.judge0.com";
 var check_timeout = 200;
 var rapidapi_host = "judge0.p.rapidapi.com";
-var rapidapi_key = "97b4d20512mshb8c45b8eb82b2a3p1897eajsnc9f00f0b103d";
+var rapidapi_key = "8b3784f80fmshccdfbe59bc65dc2p16fb70jsnb082f47ea83e";
 
 var blinkStatusLine = ((localStorageGetItem("blink") || "true") === "true");
 var editorMode = localStorageGetItem("editorMode") || "normal";
